@@ -1,3 +1,6 @@
+// Name: Ishraq Oheen
+// Assignment 4
+
 import './components/app-header.js';
 import './components/entry-card.js';
 

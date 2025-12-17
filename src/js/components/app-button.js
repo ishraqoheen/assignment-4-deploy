@@ -1,3 +1,6 @@
+// Name: Ishraq Oheen
+// Assignment 4
+
 class AppButton extends HTMLElement {
   static get observedAttributes() {
     return ['href'];

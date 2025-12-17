@@ -1,3 +1,6 @@
+// Name: Ishraq Oheen
+// Assignment 4
+
 import './app-button.js';
 
 class EntryCard extends HTMLElement {

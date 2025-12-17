@@ -1,3 +1,6 @@
+**Deployed App URL:** https://assignment-4-deploy.vercel.app/
+**Name:** Ishraq Oheen
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/BN0pa1fE)
 # Assignment 4: Final Project – Complete Front-End Application (Web Component Focused)
 

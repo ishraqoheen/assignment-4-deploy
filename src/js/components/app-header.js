@@ -1,3 +1,6 @@
+// Name: Ishraq Oheen
+// Assignment 4
+
 class AppHeader extends HTMLElement {
   constructor() {
     super();
